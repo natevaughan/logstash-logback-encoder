@@ -676,7 +676,7 @@ The following sections describe the fields included in the JSON output by defaul
 * `LogstashLayout`, and
 * the logstash appenders
 
-If you are using the [composite encoders/layouts](#composite_encoder), then the fields written will
+If you are using the [composite encoders/layouts](#composite-encoderlayout), then the fields written will
 vary by the providers you configure.
 
 
